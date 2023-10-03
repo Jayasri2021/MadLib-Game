@@ -3,3 +3,4 @@ def gen_madlibs():
     n = input("Enter a noun: ")
     v = input("Enter a verb: ")
     adv = input("Enter an adverb: ")
+    madlibs_story = f"The {adj} {n} {v} {adv}."
