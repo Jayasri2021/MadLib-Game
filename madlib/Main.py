@@ -1,1 +1,1 @@
-
+from MadLib_generator import gen_madlibs
